@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\danla\source\repos\project dv1490\project dv1490\main.cpp(7): error C2065: 'ifstream': undeclared identifier
+c:\users\danla\source\repos\project dv1490\project dv1490\main.cpp(7): error C2146: syntax error: missing ';' before identifier 'file'
+c:\users\danla\source\repos\project dv1490\project dv1490\main.cpp(7): error C2065: 'file': undeclared identifier
